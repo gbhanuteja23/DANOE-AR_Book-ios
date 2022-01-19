@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5707241351161786611
+  m_GuidHigh: 18160357288486740155
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4896432930587078847
+      m_GuidHigh: 15102071455709057167
+    m_SerializedTextureGuid:
+      m_GuidLow: 10602696971856563648
+      m_GuidHigh: 11934903473694746171
+    m_Size: {x: 1, y: 0.6666667}
+    m_SpecifySize: 1
+    m_Name: Image Target
+    m_Texture: {fileID: 2800000, guid: 6c9ecdc058b893243ba626ba794ba1a5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5512279841501238590
+      m_GuidHigh: 1382657141487843987
+    m_SerializedTextureGuid:
+      m_GuidLow: 4045467876356353280
+      m_GuidHigh: 10543291944098751803
+    m_Size: {x: 1, y: 0.66772485}
+    m_SpecifySize: 1
+    m_Name: Daanoe-HouseOfTreasures-945
+    m_Texture: {fileID: 2800000, guid: 88796d00639938243b653e93294c5192, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5264194057417309900
+      m_GuidHigh: 14190256527317247135
+    m_SerializedTextureGuid:
+      m_GuidLow: 640841577928943733
+      m_GuidHigh: 17638450299839367961
+    m_Size: {x: 1, y: 0.6675}
+    m_SpecifySize: 1
+    m_Name: Daanoe-Golden-1200
+    m_Texture: {fileID: 2800000, guid: 11c16875ba0508e419cb4e5e185dc8f4, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5644115086382917503
+      m_GuidHigh: 18329626026061729966
+    m_SerializedTextureGuid:
+      m_GuidLow: 9292316385015663774
+      m_GuidHigh: 14531449810502040
+    m_Size: {x: 1, y: 0.6675}
+    m_SpecifySize: 1
+    m_Name: Daanoe-CrossingLines-1200
+    m_Texture: {fileID: 2800000, guid: f5668c9ef08480f498c106d046a03300, type: 3}
